@@ -49,6 +49,14 @@
     },
     "engines": {
       "dsh": ">=0.2.1-rc.5 <0.3.0"
+    },
+    "catalog": {
+      "category": "ui",
+      "summary": {
+        "en": "WeChat Reading sidebar reader with QR login, book-like paging, and chapter copy for AI analysis.",
+        "zh": "微信读书侧栏阅读：扫码登录、整页翻页、一键复制单章/多章，方便交给 AI 分析。"
+      },
+      "capabilities": ["webServer", "settings", "sidebarRightTabs", "slots", "locale"]
     }
   },
   "dependencies": {
