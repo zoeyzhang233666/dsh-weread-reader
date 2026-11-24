@@ -1,0 +1,13 @@
+Weread Reader DSH
+Copyright 2026 Weread Reader DSH contributors
+
+This product includes protocol algorithms derived from community Weread web
+clients under the MIT License:
+
+- weread-vscode / Folio (https://github.com/Weichuandong/weread-vscode)
+- touchFish Weread utils (https://github.com/ylw1997/touchFish)
+- dsh-weread-bilingual (https://github.com/zoeyzhang233666/dsh-weread-bilingual)
+
+Those projects document the same Weread web signing, chapter-decrypt, and QR
+login conventions. This repository reimplements a reading-and-copy focused
+client for DeepSeek Harness; retain this NOTICE when redistributing.

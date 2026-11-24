@@ -1,0 +1,9 @@
+{
+  "name": "dsh-weread-reader-host",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Internal host sources for dsh-weread-reader (not published separately)",
+  "type": "module",
+  "main": "./src/index.js",
+  "license": "MIT"
+}

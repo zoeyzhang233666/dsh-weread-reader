@@ -1,0 +1,12 @@
+node_modules/
+.vendor/
+*.tgz
+_ref/
+.smoke/
+.dsh-test/
+.DS_Store
+*.log
+tmp-*.mjs
+
+main.js
+
